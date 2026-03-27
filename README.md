@@ -24,7 +24,7 @@ Motor resumes on GREEN          Notifies result back
 
 ## Schematic
 
-schematic.png
+![Schematic](schematic.png)
 
 > Place `schematic.png` in the same directory as this README.
 
